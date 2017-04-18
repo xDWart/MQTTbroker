@@ -1,0 +1,22 @@
+{
+    "name": "MQTTbroker",
+    "description": "ESP8266 WebSocket MQTT Broker for IoTmanager",
+    "keywords": "mqtt, broker, wifi, http, web, server, client, websocket",
+    "authors": [
+        {
+            "name": "Anatoly Bezgubenko",
+            "url": "https://github.com/xDWart",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xDWart/MQTTbroker.git"
+    },
+    "version": "0.1.0",
+    "frameworks": "arduino",
+    "platforms": "espressif",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
